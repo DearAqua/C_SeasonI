@@ -1,5 +1,8 @@
 trial implementation
 
+2019-07-08
+- New Begining
+
 2019-07-07
 - Back to Home
 
