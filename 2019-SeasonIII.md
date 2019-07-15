@@ -1,5 +1,8 @@
 trial implementation
 
+2019-07-15
+- be more effctive
+
 2019-07-11
 - Please Sleep before 12
 - bad day
