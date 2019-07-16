@@ -1,5 +1,8 @@
 trial implementation
 
+2019-07-16
+- too tired
+
 2019-07-15
 - be more effctive
 
