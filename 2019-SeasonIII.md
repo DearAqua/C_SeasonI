@@ -1,5 +1,8 @@
 trial implementation
 
+2019-07-17
+- Pushing
+
 2019-07-16
 - too tired
 
