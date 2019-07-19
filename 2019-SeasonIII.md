@@ -1,5 +1,8 @@
 trial implementation
 
+2019-07-19
+- Tennis
+
 2019-07-18
 - Tennis
 
